@@ -1,0 +1,16 @@
+{
+    "name": "Solids",
+    "rootNamespace": "",
+    "references": [
+        "GUID:058ed8528cdfff54e857ebf694afa31c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
